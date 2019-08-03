@@ -1,0 +1,18 @@
+{
+  "name": "project-teaser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kingokeke/project-teaser.git",
+  "author": "Kingsley Okeke <mr.kingsley.okeke@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
